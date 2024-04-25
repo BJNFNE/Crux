@@ -1,2 +1,2 @@
 # Crux
-Crux Game Engine developed by Makh-Shevet
+Crux Game Engine developed by Giant Steps
